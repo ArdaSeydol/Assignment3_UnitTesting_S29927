@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ardas\\OneDrive\\Masaüstü\\Assignment3\\ShapesProject.Tests\\ShapesProject.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ardas\\RiderProjects\\Assignment3_UnitTesting_S29927\\ShapesProject.Tests\\ShapesProject.Tests.csproj",
       "projectName": "ShapesProject.Tests",
-      "projectPath": "C:\\Users\\ardas\\OneDrive\\Masaüstü\\Assignment3\\ShapesProject.Tests\\ShapesProject.Tests.csproj",
+      "projectPath": "C:\\Users\\ardas\\RiderProjects\\Assignment3_UnitTesting_S29927\\ShapesProject.Tests\\ShapesProject.Tests.csproj",
       "packagesPath": "C:\\Users\\ardas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ardas\\OneDrive\\Masaüstü\\Assignment3\\ShapesProject.Tests\\obj\\",
+      "outputPath": "C:\\Users\\ardas\\RiderProjects\\Assignment3_UnitTesting_S29927\\ShapesProject.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ardas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1022,8 +1022,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ardas\\OneDrive\\Masaüstü\\Assignment3\\ShapesProject\\ShapesProject.csproj": {
-              "projectPath": "C:\\Users\\ardas\\OneDrive\\Masaüstü\\Assignment3\\ShapesProject\\ShapesProject.csproj"
+            "C:\\Users\\ardas\\RiderProjects\\Assignment3_UnitTesting_S29927\\ShapesProject\\ShapesProject.csproj": {
+              "projectPath": "C:\\Users\\ardas\\RiderProjects\\Assignment3_UnitTesting_S29927\\ShapesProject\\ShapesProject.csproj"
             }
           }
         }

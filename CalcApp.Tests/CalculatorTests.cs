@@ -33,5 +33,17 @@ namespace Assignment3_S29927_Tests
         [Test]
         public void TestDivideByZero()
             => Assert.Throws<DivideByZeroException>(() => calc.Divide(10, 0));
+
+        [Test]
+        public void TestAddWithNegativeNumbers()
+            => Assert.That(calc.Add(-5, 3), Is.EqualTo(-2));
+
+        [Test]
+        public void TestMultiplyByZero()
+            => Assert.That(calc.Multiply(7, 0), Is.EqualTo(0));
+
+        [Test]
+        public void TestDivideReturnsDoubleResult()
+            => Assert.That(calc.Divide(1, 2), Is.EqualTo(0.5).Within(0.0001));
     }
 }

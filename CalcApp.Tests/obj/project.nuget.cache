@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W62q2JYUS8s=",
+  "dgSpecHash": "llG8jS0d4p8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ardas\\OneDrive\\Masaüstü\\Assignment3\\CalcApp.Tests\\CalcApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ardas\\RiderProjects\\Assignment3_UnitTesting_S29927\\CalcApp.Tests\\CalcApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ardas\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ardas\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

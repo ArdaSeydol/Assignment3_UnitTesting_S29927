@@ -9,3 +9,15 @@ C:\Users\ardas\OneDrive\Masaüstü\Assignment3\ShapesProject\obj\Debug\net8.0\Sh
 C:\Users\ardas\OneDrive\Masaüstü\Assignment3\ShapesProject\obj\Debug\net8.0\refint\ShapesProject.dll
 C:\Users\ardas\OneDrive\Masaüstü\Assignment3\ShapesProject\obj\Debug\net8.0\ShapesProject.pdb
 C:\Users\ardas\OneDrive\Masaüstü\Assignment3\ShapesProject\obj\Debug\net8.0\ref\ShapesProject.dll
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\bin\Debug\net8.0\ShapesProject.deps.json
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\bin\Debug\net8.0\ShapesProject.dll
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\bin\Debug\net8.0\ShapesProject.pdb
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\obj\Debug\net8.0\ShapesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\obj\Debug\net8.0\ShapesProject.AssemblyInfoInputs.cache
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\obj\Debug\net8.0\ShapesProject.AssemblyInfo.cs
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\obj\Debug\net8.0\ShapesProject.csproj.CoreCompileInputs.cache
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\obj\Debug\net8.0\ShapesProject.sourcelink.json
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\obj\Debug\net8.0\ShapesProject.dll
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\obj\Debug\net8.0\refint\ShapesProject.dll
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\obj\Debug\net8.0\ShapesProject.pdb
+C:\Users\ardas\RiderProjects\Assignment3_UnitTesting_S29927\ShapesProject\obj\Debug\net8.0\ref\ShapesProject.dll
