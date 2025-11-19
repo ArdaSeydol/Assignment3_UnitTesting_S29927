@@ -33,8 +33,6 @@ To improve test coverage and demonstrate more scenarios, **six extra unique unit
 - Division should return a precise double result (e.g. 1 / 2 = 0.5).
 
 All additional test cases successfully pass when running:
-```bash
-dotnet test
 
 ```bash
 dotnet test
